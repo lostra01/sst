@@ -4,9 +4,6 @@ node_modules
 *.log
 cdk.out
 .DS_Store
-dist
 .vscode
 .idea
-!packages/sst/dist
-packages/sst/dist/*
-!packages/sst/dist/package.json
+
